@@ -1,0 +1,2 @@
+# Knife
+Pichoqga ilinadigan proyektlar
