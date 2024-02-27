@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Infrastructure\bin\Debug\net8.0\EmailSenderApp.Infrastructure.deps.json
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Infrastructure\bin\Debug\net8.0\EmailSenderApp.Infrastructure.dll
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Infrastructure\bin\Debug\net8.0\EmailSenderApp.Infrastructure.pdb
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Infrastructure\obj\Debug\net8.0\EmailSenderApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Infrastructure\obj\Debug\net8.0\EmailSenderApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Infrastructure\obj\Debug\net8.0\EmailSenderApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Infrastructure\obj\Debug\net8.0\EmailSenderApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Infrastructure\obj\Debug\net8.0\EmailSenderApp.Infrastructure.dll
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Infrastructure\obj\Debug\net8.0\refint\EmailSenderApp.Infrastructure.dll
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Infrastructure\obj\Debug\net8.0\EmailSenderApp.Infrastructure.pdb
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Infrastructure\obj\Debug\net8.0\ref\EmailSenderApp.Infrastructure.dll

@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Domen\bin\Debug\net8.0\EmailSenderApp.Domen.deps.json
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Domen\bin\Debug\net8.0\EmailSenderApp.Domen.dll
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Domen\bin\Debug\net8.0\EmailSenderApp.Domen.pdb
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Domen\obj\Debug\net8.0\EmailSenderApp.Domen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Domen\obj\Debug\net8.0\EmailSenderApp.Domen.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Domen\obj\Debug\net8.0\EmailSenderApp.Domen.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Domen\obj\Debug\net8.0\EmailSenderApp.Domen.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Domen\obj\Debug\net8.0\EmailSenderApp.Domen.dll
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Domen\obj\Debug\net8.0\refint\EmailSenderApp.Domen.dll
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Domen\obj\Debug\net8.0\EmailSenderApp.Domen.pdb
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Domen\obj\Debug\net8.0\ref\EmailSenderApp.Domen.dll

@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Application\bin\Debug\net8.0\EmailSenderApp.Application.deps.json
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Application\bin\Debug\net8.0\EmailSenderApp.Application.dll
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Application\bin\Debug\net8.0\EmailSenderApp.Application.pdb
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Application\bin\Debug\net8.0\EmailSenderApp.Domen.dll
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Application\bin\Debug\net8.0\EmailSenderApp.Domen.pdb
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Application\obj\Debug\net8.0\EmailSenderApp.Application.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Application\obj\Debug\net8.0\EmailSenderApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Application\obj\Debug\net8.0\EmailSenderApp.Application.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Application\obj\Debug\net8.0\EmailSenderApp.Application.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Application\obj\Debug\net8.0\EmailSenderApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Application\obj\Debug\net8.0\EmailSenderApp.Application.csproj.CopyComplete
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Application\obj\Debug\net8.0\EmailSenderApp.Application.dll
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Application\obj\Debug\net8.0\refint\EmailSenderApp.Application.dll
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Application\obj\Debug\net8.0\EmailSenderApp.Application.pdb
+C:\Users\Hp\source\repos\Themes\EmailSenderApp.Application\obj\Debug\net8.0\ref\EmailSenderApp.Application.dll
