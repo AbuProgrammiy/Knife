@@ -10,6 +10,7 @@ namespace Project.Api.Controllers
     public class MenuController : ControllerBase
     {
         [HttpGet]
+        //[Authorize(Roles = "Teacher, Student")]      //Permmision: Authorize ushbu holatda yozilsa, roli faqat oqituvchilar va oquvchilar kora oladilar
         public string Greeting()
         {
             return "Hello, You are authorized";
