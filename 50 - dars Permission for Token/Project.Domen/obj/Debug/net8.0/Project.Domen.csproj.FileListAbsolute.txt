@@ -1,0 +1,23 @@
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Domen\bin\Debug\net8.0\Project.Domen.deps.json
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Domen\bin\Debug\net8.0\Project.Domen.dll
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Domen\bin\Debug\net8.0\Project.Domen.pdb
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Domen\obj\Debug\net8.0\Project.Domen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Domen\obj\Debug\net8.0\Project.Domen.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Domen\obj\Debug\net8.0\Project.Domen.AssemblyInfo.cs
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Domen\obj\Debug\net8.0\Project.Domen.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Domen\obj\Debug\net8.0\Project.Domen.dll
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Domen\obj\Debug\net8.0\refint\Project.Domen.dll
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Domen\obj\Debug\net8.0\Project.Domen.pdb
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Domen\obj\Debug\net8.0\ref\Project.Domen.dll
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Domen\bin\Debug\net8.0\Project.Domen.deps.json
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Domen\bin\Debug\net8.0\Project.Domen.dll
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Domen\bin\Debug\net8.0\Project.Domen.pdb
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Domen\obj\Debug\net8.0\Project.Domen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Domen\obj\Debug\net8.0\Project.Domen.AssemblyInfoInputs.cache
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Domen\obj\Debug\net8.0\Project.Domen.AssemblyInfo.cs
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Domen\obj\Debug\net8.0\Project.Domen.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Domen\obj\Debug\net8.0\Project.Domen.sourcelink.json
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Domen\obj\Debug\net8.0\Project.Domen.dll
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Domen\obj\Debug\net8.0\refint\Project.Domen.dll
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Domen\obj\Debug\net8.0\Project.Domen.pdb
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Domen\obj\Debug\net8.0\ref\Project.Domen.dll
