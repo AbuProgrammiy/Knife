@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1zwWeoSep0fK3v2PtmgG+4aYCEdngWnHY8Oa40w7WMdUveo7EwJhzdL5TGAbbJreXybV7sbMI9EQkYlzaucFYA==",
+  "dgSpecHash": "lkDQdmBAXrns4WFtlcSYkrCo0P2hue6eGD1IuuQdwzjoaxcl7gcK7uUbnzncE17Z+TGC1wp7Di6m78HLoHWiig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Api\\EmailSenderApp.Api.csproj",
+  "projectFilePath": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Api\\EmailSenderApp.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

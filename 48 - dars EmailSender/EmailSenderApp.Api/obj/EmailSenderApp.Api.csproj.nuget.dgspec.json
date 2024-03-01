@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Api\\EmailSenderApp.Api.csproj": {}
+    "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Api\\EmailSenderApp.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Api\\EmailSenderApp.Api.csproj": {
+    "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Api\\EmailSenderApp.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Api\\EmailSenderApp.Api.csproj",
+        "projectUniqueName": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Api\\EmailSenderApp.Api.csproj",
         "projectName": "EmailSenderApp.Api",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Api\\EmailSenderApp.Api.csproj",
+        "projectPath": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Api\\EmailSenderApp.Api.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Api\\obj\\",
+        "outputPath": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Application\\EmailSenderApp.Application.csproj": {
-                "projectPath": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Application\\EmailSenderApp.Application.csproj"
+              "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Application\\EmailSenderApp.Application.csproj": {
+                "projectPath": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Application\\EmailSenderApp.Application.csproj"
               },
-              "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj": {
-                "projectPath": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj"
+              "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj": {
+                "projectPath": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Application\\EmailSenderApp.Application.csproj": {
+    "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Application\\EmailSenderApp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Application\\EmailSenderApp.Application.csproj",
+        "projectUniqueName": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Application\\EmailSenderApp.Application.csproj",
         "projectName": "EmailSenderApp.Application",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Application\\EmailSenderApp.Application.csproj",
+        "projectPath": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Application\\EmailSenderApp.Application.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Application\\obj\\",
+        "outputPath": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj": {
-                "projectPath": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj"
+              "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj": {
+                "projectPath": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj": {
+    "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj",
+        "projectUniqueName": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj",
         "projectName": "EmailSenderApp.Domen",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj",
+        "projectPath": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Domen\\obj\\",
+        "outputPath": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Domen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

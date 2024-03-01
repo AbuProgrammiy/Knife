@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj",
+      "projectUniqueName": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj",
       "projectName": "EmailSenderApp.Domen",
-      "projectPath": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj",
+      "projectPath": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Domen\\EmailSenderApp.Domen.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Domen\\obj\\",
+      "outputPath": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Domen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

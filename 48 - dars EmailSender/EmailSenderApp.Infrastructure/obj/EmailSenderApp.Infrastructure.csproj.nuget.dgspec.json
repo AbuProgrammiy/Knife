@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Infrastructure\\EmailSenderApp.Infrastructure.csproj": {}
+    "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Infrastructure\\EmailSenderApp.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Infrastructure\\EmailSenderApp.Infrastructure.csproj": {
+    "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Infrastructure\\EmailSenderApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Infrastructure\\EmailSenderApp.Infrastructure.csproj",
+        "projectUniqueName": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Infrastructure\\EmailSenderApp.Infrastructure.csproj",
         "projectName": "EmailSenderApp.Infrastructure",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Infrastructure\\EmailSenderApp.Infrastructure.csproj",
+        "projectPath": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Infrastructure\\EmailSenderApp.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\Themes\\EmailSenderApp.Infrastructure\\obj\\",
+        "outputPath": "D:\\GitHome\\ottizbir\\Knife\\48 - dars EmailSender\\EmailSenderApp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
