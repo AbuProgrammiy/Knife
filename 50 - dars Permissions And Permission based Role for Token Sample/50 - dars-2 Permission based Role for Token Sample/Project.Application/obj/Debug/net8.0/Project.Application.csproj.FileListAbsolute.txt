@@ -1,0 +1,47 @@
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Application\bin\Debug\net8.0\Project.Application.deps.json
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Application\bin\Debug\net8.0\Project.Application.dll
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Application\bin\Debug\net8.0\Project.Application.pdb
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Application\bin\Debug\net8.0\Project.Domen.dll
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Application\bin\Debug\net8.0\Project.Domen.pdb
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Application\obj\Debug\net8.0\Project.Application.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Application\obj\Debug\net8.0\Project.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Application\obj\Debug\net8.0\Project.Application.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Application\obj\Debug\net8.0\Project.Application.AssemblyInfo.cs
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Application\obj\Debug\net8.0\Project.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Application\obj\Debug\net8.0\Project.Application.csproj.CopyComplete
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Application\obj\Debug\net8.0\Project.Application.dll
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Application\obj\Debug\net8.0\refint\Project.Application.dll
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Application\obj\Debug\net8.0\Project.Application.pdb
+C:\Users\Hp\source\repos\GenerateTokenSample\Project.Application\obj\Debug\net8.0\ref\Project.Application.dll
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Application\bin\Debug\net8.0\Project.Application.deps.json
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Application\bin\Debug\net8.0\Project.Application.dll
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Application\bin\Debug\net8.0\Project.Application.pdb
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Application\bin\Debug\net8.0\Project.Domen.dll
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Application\bin\Debug\net8.0\Project.Domen.pdb
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Application\obj\Debug\net8.0\Project.Application.csproj.AssemblyReference.cache
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Application\obj\Debug\net8.0\Project.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Application\obj\Debug\net8.0\Project.Application.AssemblyInfoInputs.cache
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Application\obj\Debug\net8.0\Project.Application.AssemblyInfo.cs
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Application\obj\Debug\net8.0\Project.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Application\obj\Debug\net8.0\Project.Application.sourcelink.json
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Application\obj\Debug\net8.0\Project.Application.csproj.CopyComplete
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Application\obj\Debug\net8.0\Project.Application.dll
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Application\obj\Debug\net8.0\refint\Project.Application.dll
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Application\obj\Debug\net8.0\Project.Application.pdb
+C:\Users\Hp\Source\Repos\Knife4\49 - dars Generate Token Sample\Project.Application\obj\Debug\net8.0\ref\Project.Application.dll
+C:\Users\Hp\Source\Repos\Knife8\50 - dars Permission for Token\Project.Application\bin\Debug\net8.0\Project.Application.deps.json
+C:\Users\Hp\Source\Repos\Knife8\50 - dars Permission for Token\Project.Application\bin\Debug\net8.0\Project.Application.dll
+C:\Users\Hp\Source\Repos\Knife8\50 - dars Permission for Token\Project.Application\bin\Debug\net8.0\Project.Application.pdb
+C:\Users\Hp\Source\Repos\Knife8\50 - dars Permission for Token\Project.Application\bin\Debug\net8.0\Project.Domen.dll
+C:\Users\Hp\Source\Repos\Knife8\50 - dars Permission for Token\Project.Application\bin\Debug\net8.0\Project.Domen.pdb
+C:\Users\Hp\Source\Repos\Knife8\50 - dars Permission for Token\Project.Application\obj\Debug\net8.0\Project.Application.csproj.AssemblyReference.cache
+C:\Users\Hp\Source\Repos\Knife8\50 - dars Permission for Token\Project.Application\obj\Debug\net8.0\Project.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Source\Repos\Knife8\50 - dars Permission for Token\Project.Application\obj\Debug\net8.0\Project.Application.AssemblyInfoInputs.cache
+C:\Users\Hp\Source\Repos\Knife8\50 - dars Permission for Token\Project.Application\obj\Debug\net8.0\Project.Application.AssemblyInfo.cs
+C:\Users\Hp\Source\Repos\Knife8\50 - dars Permission for Token\Project.Application\obj\Debug\net8.0\Project.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Source\Repos\Knife8\50 - dars Permission for Token\Project.Application\obj\Debug\net8.0\Project.Application.sourcelink.json
+C:\Users\Hp\Source\Repos\Knife8\50 - dars Permission for Token\Project.Application\obj\Debug\net8.0\Project.Application.csproj.CopyComplete
+C:\Users\Hp\Source\Repos\Knife8\50 - dars Permission for Token\Project.Application\obj\Debug\net8.0\Project.Application.dll
+C:\Users\Hp\Source\Repos\Knife8\50 - dars Permission for Token\Project.Application\obj\Debug\net8.0\refint\Project.Application.dll
+C:\Users\Hp\Source\Repos\Knife8\50 - dars Permission for Token\Project.Application\obj\Debug\net8.0\Project.Application.pdb
+C:\Users\Hp\Source\Repos\Knife8\50 - dars Permission for Token\Project.Application\obj\Debug\net8.0\ref\Project.Application.dll
