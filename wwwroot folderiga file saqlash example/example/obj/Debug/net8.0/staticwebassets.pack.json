@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\example\\example\\wwwroot\\images\\omina.jpg",
+      "PackagePath": "staticwebassets\\images\\omina.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\source\\repos\\example\\example\\wwwroot\\images\\photo_2023-06-21_11-11-14.jpg",
+      "PackagePath": "staticwebassets\\images\\photo_2023-06-21_11-11-14.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.example.props",
+      "PackagePath": "build\\example.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.example.props",
+      "PackagePath": "buildMultiTargeting\\example.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.example.props",
+      "PackagePath": "buildTransitive\\example.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.example.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

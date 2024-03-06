@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "1gmGB7Dc7+pq/SJfAqZ6nLreNd8P9V04FCDcRcPiWh4=",
+  "Source": "example",
+  "BasePath": "_content/example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "example\\wwwroot",
+      "Source": "example",
+      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\example\\example\\wwwroot\\",
+      "BasePath": "_content/example",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hp\\source\\repos\\example\\example\\wwwroot\\images\\omina.jpg",
+      "SourceId": "example",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\example\\example\\wwwroot\\",
+      "BasePath": "_content/example",
+      "RelativePath": "images/omina.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\omina.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\source\\repos\\example\\example\\wwwroot\\images\\photo_2023-06-21_11-11-14.jpg",
+      "SourceId": "example",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\source\\repos\\example\\example\\wwwroot\\",
+      "BasePath": "_content/example",
+      "RelativePath": "images/photo_2023-06-21_11-11-14.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\photo_2023-06-21_11-11-14.jpg"
+    }
+  ]
+}
