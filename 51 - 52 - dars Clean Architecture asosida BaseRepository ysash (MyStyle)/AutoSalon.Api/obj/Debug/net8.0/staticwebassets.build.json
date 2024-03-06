@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VT2XAaAPmgaFynqqZKsQ2o31yPbXcrD5tyXwPjQtqRk=",
+  "Source": "AutoSalon.Api",
+  "BasePath": "_content/AutoSalon.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,290 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Api\\AutoSalon.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Api\\AutoSalon.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Api\\AutoSalon.Api.csproj",
+        "projectName": "AutoSalon.Api",
+        "projectPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Api\\AutoSalon.Api.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Application\\AutoSalon.Application.csproj": {
+                "projectPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Application\\AutoSalon.Application.csproj"
+              },
+              "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj": {
+                "projectPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj"
+              },
+              "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Infrastructure\\AutoSalon.Infrastructure.csproj": {
+                "projectPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Infrastructure\\AutoSalon.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Application\\AutoSalon.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Application\\AutoSalon.Application.csproj",
+        "projectName": "AutoSalon.Application",
+        "projectPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Application\\AutoSalon.Application.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj": {
+                "projectPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj",
+        "projectName": "AutoSalon.Domain",
+        "projectPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Infrastructure\\AutoSalon.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Infrastructure\\AutoSalon.Infrastructure.csproj",
+        "projectName": "AutoSalon.Infrastructure",
+        "projectPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Infrastructure\\AutoSalon.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Application\\AutoSalon.Application.csproj": {
+                "projectPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Application\\AutoSalon.Application.csproj"
+              },
+              "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj": {
+                "projectPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

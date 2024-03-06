@@ -1,0 +1,221 @@
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Api.exe
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Api.deps.json
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Api.runtimeconfig.json
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Api.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Api.pdb
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Application.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Domain.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Infrastructure.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Application.pdb
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Domain.pdb
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Infrastructure.pdb
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.AssemblyInfo.cs
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\staticwebassets\msbuild.AutoSalon.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.AutoSalon.Api.props
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AutoSalon.Api.props
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AutoSalon.Api.props
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\scopedcss\bundle\AutoSalon.Api.styles.css
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.csproj.CopyComplete
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\refint\AutoSalon.Api.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.pdb
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.genruntimeconfig.cache
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Api\obj\Debug\net8.0\ref\AutoSalon.Api.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\appsettings.json
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Api.exe
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Api.deps.json
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Api.runtimeconfig.json
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Api.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Api.pdb
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Humanizer.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Npgsql.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Application.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Domain.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Infrastructure.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Application.pdb
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Domain.pdb
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\bin\Debug\net8.0\AutoSalon.Infrastructure.pdb
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.csproj.AssemblyReference.cache
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.AssemblyInfoInputs.cache
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.AssemblyInfo.cs
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.csproj.CoreCompileInputs.cache
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.sourcelink.json
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\staticwebassets\msbuild.AutoSalon.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.AutoSalon.Api.props
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AutoSalon.Api.props
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AutoSalon.Api.props
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\scopedcss\bundle\AutoSalon.Api.styles.css
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.csproj.CopyComplete
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\refint\AutoSalon.Api.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.pdb
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\AutoSalon.Api.genruntimeconfig.cache
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Api\obj\Debug\net8.0\ref\AutoSalon.Api.dll
