@@ -1,0 +1,1 @@
+### tajribalar uchun EFCore Repositoryga ega bolgan API sample!
