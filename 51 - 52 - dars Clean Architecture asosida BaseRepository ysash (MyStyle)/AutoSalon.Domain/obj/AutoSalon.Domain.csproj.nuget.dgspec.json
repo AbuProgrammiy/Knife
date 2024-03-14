@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj": {}
+    "D:\\GitHome\\qiriqolti\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj": {}
   },
   "projects": {
-    "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj": {
+    "D:\\GitHome\\qiriqolti\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj",
+        "projectUniqueName": "D:\\GitHome\\qiriqolti\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj",
         "projectName": "AutoSalon.Domain",
-        "projectPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj",
+        "projectPath": "D:\\GitHome\\qiriqolti\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\obj\\",
+        "outputPath": "D:\\GitHome\\qiriqolti\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

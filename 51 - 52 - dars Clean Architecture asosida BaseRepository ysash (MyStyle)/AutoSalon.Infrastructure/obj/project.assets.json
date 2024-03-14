@@ -2387,11 +2387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Infrastructure\\AutoSalon.Infrastructure.csproj",
+      "projectUniqueName": "D:\\GitHome\\qiriqolti\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Infrastructure\\AutoSalon.Infrastructure.csproj",
       "projectName": "AutoSalon.Infrastructure",
-      "projectPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Infrastructure\\AutoSalon.Infrastructure.csproj",
+      "projectPath": "D:\\GitHome\\qiriqolti\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Infrastructure\\AutoSalon.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Infrastructure\\obj\\",
+      "outputPath": "D:\\GitHome\\qiriqolti\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2408,11 +2408,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Application\\AutoSalon.Application.csproj": {
-              "projectPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Application\\AutoSalon.Application.csproj"
+            "D:\\GitHome\\qiriqolti\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Application\\AutoSalon.Application.csproj": {
+              "projectPath": "D:\\GitHome\\qiriqolti\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Application\\AutoSalon.Application.csproj"
             },
-            "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj": {
-              "projectPath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj"
+            "D:\\GitHome\\qiriqolti\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj": {
+              "projectPath": "D:\\GitHome\\qiriqolti\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Domain\\AutoSalon.Domain.csproj"
             }
           }
         }

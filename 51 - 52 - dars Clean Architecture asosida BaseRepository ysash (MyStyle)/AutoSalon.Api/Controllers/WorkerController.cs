@@ -10,36 +10,34 @@ namespace AutoSalon.Api.Controllers
     [ApiController]
     public class WorkerController : ControllerBase
     {
-        private readonly IWorkerRepository _workerRepository;
         private readonly IWorkerService _workerService;
-        public WorkerController(IWorkerRepository workerRepository,IWorkerService workerService)
+        public WorkerController(IWorkerService workerService)
         {
-            _workerRepository = workerRepository;
             _workerService = workerService;
         }
 
         [HttpGet]
         public IEnumerable<Worker> GetAll()
         {
-            return _workerRepository.GetAll();
+            return _workerService.GetAll();
         }
 
         [HttpGet]
         public Worker GetByName(string workerName)
         {
-            return _workerRepository.GetByName(workerName);
+            return _workerService.GetByName(workerName);
         }
 
         [HttpPost]
         public string Create(WorkerDTO workerDTO)
         {
-            return _workerRepository.Create(workerDTO);
+            return _workerService.Create(workerDTO);
         }
 
         [HttpPut]
         public string Update(int id,WorkerDTO workerDTO)
         {
-            return _workerRepository.Update(id, workerDTO);
+            return _workerService.Update(id, workerDTO);
         }
 
         [HttpPatch]
@@ -51,7 +49,7 @@ namespace AutoSalon.Api.Controllers
         [HttpDelete]
         public string Delete(int id)
         {
-            return _workerRepository.Delete(id);
+            return _workerService.Delete(id);
         }
     }
 }

@@ -10,36 +10,34 @@ namespace AutoSalon.Api.Controllers
     [ApiController]
     public class CarController : ControllerBase
     {
-        private readonly ICarRepository _carRepository;
         private readonly ICarService _carService;
-        public CarController(ICarRepository carRepository,ICarService carService)
+        public CarController(ICarService carService)
         {
-            _carRepository = carRepository;
             _carService = carService;
         }
 
         [HttpGet]
         public IEnumerable<Car> GetAll()
         {
-            return _carRepository.GetAll();
+            return _carService.GetAll();
         }
 
         [HttpGet]
         public Car GetByName(string carName)
         {
-            return _carRepository.GetByName(carName);
+            return _carService.GetByName(carName);
         }
 
         [HttpPost]
         public string Create(CarDTO carDTO)
         {
-            return _carRepository.Create(carDTO);
+            return _carService.Create(carDTO);
         }
 
         [HttpPut]
         public string Update(int id,CarDTO carDTO)
         {
-            return _carRepository.Update(id,carDTO);
+            return _carService.Update(id,carDTO);
         }
 
         [HttpPatch]
@@ -51,7 +49,7 @@ namespace AutoSalon.Api.Controllers
         [HttpDelete]
         public string Delete(int id)
         {
-            return _carRepository.Delete(id);
+            return _carService.Delete(id);
         }
     }
 }

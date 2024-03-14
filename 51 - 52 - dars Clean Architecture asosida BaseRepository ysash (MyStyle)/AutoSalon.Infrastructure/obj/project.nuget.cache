@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YxYXnaL3I3ws32V4dGrRSK5IFu5cSQ3e7cvx/2LBUd9PDz9oQO87WNNEM807dJq5C2rtQFlucm5Bid+FE3+4rA==",
+  "dgSpecHash": "FPvuI9sl1vhQOjor5Dy+TGta7L/BIP3xS3MPq6ybtBuf/c/PxjGdpFWjp3F9CqZAJZONjePQrLIUlzS1u93gFw==",
   "success": true,
-  "projectFilePath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Infrastructure\\AutoSalon.Infrastructure.csproj",
+  "projectFilePath": "D:\\GitHome\\qiriqolti\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Infrastructure\\AutoSalon.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hp\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eBscnb3wa9emTILmcFvby+taIItdWxNUNrSZv7amEkulqDfY0mGHx5fOuBdCiNOVwsgJLU2srmFju3XWR8i3Gw==",
+  "dgSpecHash": "RiDsRFlX7DUUXMaA6oL5BGL5p2/bTTuSVR3g28dRlvzfa3nEEZpLMpNG1GgVYwISwn+1Nf+7/eVFxXsfjggZ+w==",
   "success": true,
-  "projectFilePath": "D:\\GitHome\\ottiztoqqiz\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Application\\AutoSalon.Application.csproj",
+  "projectFilePath": "D:\\GitHome\\qiriqolti\\Knife\\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\\AutoSalon.Application\\AutoSalon.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"

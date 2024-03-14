@@ -1,6 +1,4 @@
 # BaseRepository yasash asosi
-## MyStyle boganiga sabab - Ustoz CRUD amallarini Servicega yozgandilar, men esa Repository ichiga CRUD amali va Service ichiga boshqa ammallar yozdm.
-## 
 ##
 # Steplar
 ## 1 - Domain, DTO yozish

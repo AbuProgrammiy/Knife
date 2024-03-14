@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoSalon.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f73dd35ffa9e7096a08ae4eead60a332e5decb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15eca7aed1500674ff270f43eada9da904008e07")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoSalon.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoSalon.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
