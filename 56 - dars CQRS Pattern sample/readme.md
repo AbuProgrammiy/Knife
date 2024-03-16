@@ -5,9 +5,9 @@
 #### 3: Abstractions --> IApplicationDbContext
 #### 4: Percictanse  --> ApplicationDbContext
 #### 5: UseCases --> Themes --> Commands 
-#### .....................................................Queries  
-#### ....................................................-Handlers --> QueryHandler
-#### ....................................................................CommandHandler     
+#### ......................................................Queries  
+#### .....................................................-Handlers --> QueryHandler
+#### ............................................................................CommandHandler     
 #### 6: Application --> DependencyInection
 #### 8: Infrastructure --> DependencyInection
 #### 9: Migrations
