@@ -14,5 +14,6 @@
 #### 10: Controllers 
 #### 11: Run)
 ####
+####
 ## Muhim:
 ### Dastur tog'ri ishlashi uchun: Application --> MediatR, MediatR.Extensions.Microsoft.DependencyInjection 11.0.0 versiyasi kochirilishi kerak!
