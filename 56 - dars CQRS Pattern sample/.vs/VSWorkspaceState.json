@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Instagram.Application",
+    "\\Instagram.Application\\UseCases",
+    "\\Instagram.Application\\UseCases\\InstagramUser",
+    "\\Instagram.Application\\UseCases\\InstagramUser\\Handeler",
+    "\\Instagram.Application\\UseCases\\InstagramUser\\Handeler\\QueriesHandler"
+  ],
+  "SelectedNode": "\\56 - dars CQRS Pattern sample.sln",
+  "PreviewInSolutionExplorer": false
+}

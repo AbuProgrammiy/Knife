@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Infrastructure\\Instagram.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Application\\Instagram.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Application\\Instagram.Application.csproj",
+        "projectName": "Instagram.Application",
+        "projectPath": "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Application\\Instagram.Application.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Domain\\Instagram.Domain.csproj": {
+                "projectPath": "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Domain\\Instagram.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Domain\\Instagram.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Domain\\Instagram.Domain.csproj",
+        "projectName": "Instagram.Domain",
+        "projectPath": "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Domain\\Instagram.Domain.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Infrastructure\\Instagram.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Infrastructure\\Instagram.Infrastructure.csproj",
+        "projectName": "Instagram.Infrastructure",
+        "projectPath": "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Infrastructure\\Instagram.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Application\\Instagram.Application.csproj": {
+                "projectPath": "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Application\\Instagram.Application.csproj"
+              },
+              "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Domain\\Instagram.Domain.csproj": {
+                "projectPath": "D:\\GitHome\\qiriqtoqqiz\\Knife\\56 - dars CQRS Pattern sample\\Instagram.Domain\\Instagram.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

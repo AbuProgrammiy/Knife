@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagram.Domain", "Instagram.Domain\Instagram.Domain.csproj", "{B10679F7-A1F0-4248-B2F8-1BCDA6D2AB2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagram.Application", "Instagram.Application\Instagram.Application.csproj", "{94370B85-FBE4-4690-BC27-AEC2A146BD56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagram.Infrastructure", "Instagram.Infrastructure\Instagram.Infrastructure.csproj", "{FE5D0EA9-04DA-490F-ACF4-8349F0FF3C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagram.Api", "Instagram.Api\Instagram.Api.csproj", "{BEFA0463-C516-4863-935D-F8EC4404267D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10679F7-A1F0-4248-B2F8-1BCDA6D2AB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10679F7-A1F0-4248-B2F8-1BCDA6D2AB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10679F7-A1F0-4248-B2F8-1BCDA6D2AB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10679F7-A1F0-4248-B2F8-1BCDA6D2AB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94370B85-FBE4-4690-BC27-AEC2A146BD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94370B85-FBE4-4690-BC27-AEC2A146BD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94370B85-FBE4-4690-BC27-AEC2A146BD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94370B85-FBE4-4690-BC27-AEC2A146BD56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5D0EA9-04DA-490F-ACF4-8349F0FF3C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5D0EA9-04DA-490F-ACF4-8349F0FF3C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5D0EA9-04DA-490F-ACF4-8349F0FF3C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5D0EA9-04DA-490F-ACF4-8349F0FF3C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEFA0463-C516-4863-935D-F8EC4404267D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFA0463-C516-4863-935D-F8EC4404267D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFA0463-C516-4863-935D-F8EC4404267D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFA0463-C516-4863-935D-F8EC4404267D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5921FE5-C1D3-4F16-B752-F9DFA451E3EB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\InstagramManagment\Instagram.Application\bin\Debug\net8.0\Instagram.Application.deps.json
+C:\Users\Hp\source\repos\InstagramManagment\Instagram.Application\bin\Debug\net8.0\Instagram.Application.dll
+C:\Users\Hp\source\repos\InstagramManagment\Instagram.Application\bin\Debug\net8.0\Instagram.Application.pdb
+C:\Users\Hp\source\repos\InstagramManagment\Instagram.Application\bin\Debug\net8.0\Instagram.Domain.dll
+C:\Users\Hp\source\repos\InstagramManagment\Instagram.Application\bin\Debug\net8.0\Instagram.Domain.pdb
+C:\Users\Hp\source\repos\InstagramManagment\Instagram.Application\obj\Debug\net8.0\Instagram.Application.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\InstagramManagment\Instagram.Application\obj\Debug\net8.0\Instagram.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\InstagramManagment\Instagram.Application\obj\Debug\net8.0\Instagram.Application.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\InstagramManagment\Instagram.Application\obj\Debug\net8.0\Instagram.Application.AssemblyInfo.cs
+C:\Users\Hp\source\repos\InstagramManagment\Instagram.Application\obj\Debug\net8.0\Instagram.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\InstagramManagment\Instagram.Application\obj\Debug\net8.0\Instagram.Application.csproj.CopyComplete
+C:\Users\Hp\source\repos\InstagramManagment\Instagram.Application\obj\Debug\net8.0\Instagram.Application.dll
+C:\Users\Hp\source\repos\InstagramManagment\Instagram.Application\obj\Debug\net8.0\refint\Instagram.Application.dll
+C:\Users\Hp\source\repos\InstagramManagment\Instagram.Application\obj\Debug\net8.0\Instagram.Application.pdb
+C:\Users\Hp\source\repos\InstagramManagment\Instagram.Application\obj\Debug\net8.0\ref\Instagram.Application.dll
