@@ -6,7 +6,7 @@
 #### 4: Percictanse  --> ApplicationDbContext
 #### 5: UseCases --> Themes --> Commands 
 #### ...........................Queries  
-#### ............................Handlers --> QueryHandler
+#### ---------------------------Handlers --> QueryHandler
 #### -----------------------------------------CommandHandler     
 #### 6: Application --> DependencyInection
 #### 8: Infrastructure --> DependencyInection
