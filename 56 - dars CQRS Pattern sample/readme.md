@@ -7,7 +7,7 @@
 #### 5: UseCases --> Themes --> Commands 
 #### ...........................Queries  
 #### ...........................Handlers --> QueryHandler
-#### ........................................CommandHandler     
+#### 0000000000000000000000000000000000000000CommandHandler     
 #### 6: Application --> DependencyInection
 #### 8: Infrastructure --> DependencyInection
 #### 9: Migrations
