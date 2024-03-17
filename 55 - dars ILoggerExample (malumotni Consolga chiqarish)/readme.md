@@ -6,4 +6,4 @@
 ###
 ###
 ## Muhim:
-### Ushbu holatda: ILogger<ClassName> Kelgan ma'lumot qayerdan kelganini anglatadi!
+### Ushbu holatda: ILogger<<ClassName>> Kelgan ma'lumot qayerdan kelganini anglatadi!
