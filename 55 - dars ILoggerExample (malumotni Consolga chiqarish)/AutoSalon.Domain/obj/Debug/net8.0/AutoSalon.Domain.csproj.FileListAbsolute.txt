@@ -1,0 +1,46 @@
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Domain\bin\Debug\net8.0\AutoSalon.Domain.deps.json
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Domain\bin\Debug\net8.0\AutoSalon.Domain.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Domain\bin\Debug\net8.0\AutoSalon.Domain.pdb
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.AssemblyInfo.cs
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Domain\obj\Debug\net8.0\refint\AutoSalon.Domain.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.pdb
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Domain\obj\Debug\net8.0\ref\AutoSalon.Domain.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\bin\Debug\net8.0\AutoSalon.Domain.deps.json
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\bin\Debug\net8.0\AutoSalon.Domain.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\bin\Debug\net8.0\AutoSalon.Domain.pdb
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.AssemblyInfoInputs.cache
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.AssemblyInfo.cs
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.csproj.CoreCompileInputs.cache
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.sourcelink.json
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\refint\AutoSalon.Domain.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.pdb
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\ref\AutoSalon.Domain.dll
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\bin\Debug\net8.0\AutoSalon.Domain.deps.json
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\bin\Debug\net8.0\AutoSalon.Domain.dll
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\bin\Debug\net8.0\AutoSalon.Domain.pdb
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.AssemblyInfoInputs.cache
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.AssemblyInfo.cs
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.csproj.CoreCompileInputs.cache
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.sourcelink.json
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.dll
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\refint\AutoSalon.Domain.dll
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.pdb
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Domain\obj\Debug\net8.0\ref\AutoSalon.Domain.dll
+D:\Evacuation\ILoggerExample\AutoSalon.Domain\bin\Debug\net8.0\AutoSalon.Domain.deps.json
+D:\Evacuation\ILoggerExample\AutoSalon.Domain\bin\Debug\net8.0\AutoSalon.Domain.dll
+D:\Evacuation\ILoggerExample\AutoSalon.Domain\bin\Debug\net8.0\AutoSalon.Domain.pdb
+D:\Evacuation\ILoggerExample\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Evacuation\ILoggerExample\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.AssemblyInfoInputs.cache
+D:\Evacuation\ILoggerExample\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.AssemblyInfo.cs
+D:\Evacuation\ILoggerExample\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.csproj.CoreCompileInputs.cache
+D:\Evacuation\ILoggerExample\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.dll
+D:\Evacuation\ILoggerExample\AutoSalon.Domain\obj\Debug\net8.0\refint\AutoSalon.Domain.dll
+D:\Evacuation\ILoggerExample\AutoSalon.Domain\obj\Debug\net8.0\AutoSalon.Domain.pdb
+D:\Evacuation\ILoggerExample\AutoSalon.Domain\obj\Debug\net8.0\ref\AutoSalon.Domain.dll

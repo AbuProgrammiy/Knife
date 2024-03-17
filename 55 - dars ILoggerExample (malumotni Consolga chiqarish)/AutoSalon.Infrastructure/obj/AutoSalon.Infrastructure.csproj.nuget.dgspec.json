@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Infrastructure\\AutoSalon.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Application\\AutoSalon.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Application\\AutoSalon.Application.csproj",
+        "projectName": "AutoSalon.Application",
+        "projectPath": "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Application\\AutoSalon.Application.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Domain\\AutoSalon.Domain.csproj": {
+                "projectPath": "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Domain\\AutoSalon.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Domain\\AutoSalon.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Domain\\AutoSalon.Domain.csproj",
+        "projectName": "AutoSalon.Domain",
+        "projectPath": "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Domain\\AutoSalon.Domain.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Infrastructure\\AutoSalon.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Infrastructure\\AutoSalon.Infrastructure.csproj",
+        "projectName": "AutoSalon.Infrastructure",
+        "projectPath": "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Infrastructure\\AutoSalon.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Application\\AutoSalon.Application.csproj": {
+                "projectPath": "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Application\\AutoSalon.Application.csproj"
+              },
+              "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Domain\\AutoSalon.Domain.csproj": {
+                "projectPath": "D:\\Evacuation\\55 - dars ILoggerExample (malumotni Consolga chiqarish)\\AutoSalon.Domain\\AutoSalon.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
