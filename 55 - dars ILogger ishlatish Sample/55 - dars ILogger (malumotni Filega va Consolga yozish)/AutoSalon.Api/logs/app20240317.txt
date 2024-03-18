@@ -1,0 +1,26 @@
+2024-03-17 18:08:48.096 +05:00 [INF] Now listening on: https://localhost:7016
+2024-03-17 18:08:48.127 +05:00 [INF] Now listening on: http://localhost:5164
+2024-03-17 18:08:48.129 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-17 18:08:48.129 +05:00 [INF] Hosting environment: Development
+2024-03-17 18:08:48.129 +05:00 [INF] Content root path: D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Api
+2024-03-17 18:08:48.680 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/swagger/index.html - null null
+2024-03-17 18:08:48.913 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/swagger/index.html - 200 null text/html;charset=utf-8 232.8936ms
+2024-03-17 18:08:48.933 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-17 18:08:48.933 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/_vs/browserLink - null null
+2024-03-17 18:08:48.937 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/_framework/aspnetcore-browser-refresh.js - 200 13761 application/javascript; charset=utf-8 3.8013ms
+2024-03-17 18:08:48.961 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/_vs/browserLink - 200 null text/javascript; charset=UTF-8 28.0688ms
+2024-03-17 18:08:49.057 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/swagger/v1/swagger.json - null null
+2024-03-17 18:08:49.157 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 99.1162ms
+2024-03-17 18:09:10.192 +05:00 [INF] Now listening on: https://localhost:7016
+2024-03-17 18:09:10.237 +05:00 [INF] Now listening on: http://localhost:5164
+2024-03-17 18:09:10.240 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-17 18:09:10.241 +05:00 [INF] Hosting environment: Development
+2024-03-17 18:09:10.241 +05:00 [INF] Content root path: D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Api
+2024-03-17 18:09:10.338 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/swagger/index.html - null null
+2024-03-17 18:09:10.556 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/swagger/index.html - 200 null text/html;charset=utf-8 220.7882ms
+2024-03-17 18:09:10.569 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-17 18:09:10.570 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/_vs/browserLink - null null
+2024-03-17 18:09:10.576 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/_framework/aspnetcore-browser-refresh.js - 200 13761 application/javascript; charset=utf-8 7.4751ms
+2024-03-17 18:09:10.606 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.4401ms
+2024-03-17 18:09:10.696 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/swagger/v1/swagger.json - null null
+2024-03-17 18:09:10.788 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 91.8355ms

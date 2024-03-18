@@ -1,0 +1,97 @@
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.deps.json
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.runtimeconfig.json
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.pdb
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Application.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Domain.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Application.pdb
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Domain.pdb
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.AssemblyInfo.cs
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.csproj.CopyComplete
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\obj\Debug\net8.0\refint\AutoSalon.Infrastructure.dll
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.pdb
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.genruntimeconfig.cache
+C:\Users\Hp\source\repos\AutoSalon\AutoSalon.Infrastructure\obj\Debug\net8.0\ref\AutoSalon.Infrastructure.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.deps.json
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.runtimeconfig.json
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.pdb
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Application.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Domain.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Application.pdb
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Domain.pdb
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.csproj.AssemblyReference.cache
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.AssemblyInfoInputs.cache
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.AssemblyInfo.cs
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.csproj.CoreCompileInputs.cache
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.sourcelink.json
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.csproj.CopyComplete
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\refint\AutoSalon.Infrastructure.dll
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.pdb
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.genruntimeconfig.cache
+D:\GitHome\ottiztoqqiz\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\ref\AutoSalon.Infrastructure.dll
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.deps.json
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.runtimeconfig.json
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.dll
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.pdb
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Application.dll
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Domain.dll
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Application.pdb
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Domain.pdb
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.csproj.AssemblyReference.cache
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.AssemblyInfoInputs.cache
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.AssemblyInfo.cs
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.csproj.CoreCompileInputs.cache
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.sourcelink.json
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.csproj.CopyComplete
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.dll
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\refint\AutoSalon.Infrastructure.dll
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.pdb
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.genruntimeconfig.cache
+D:\GitHome\qiriqolti\Knife\51 - 52 - dars Clean Architecture asosida BaseRepository ysash (MyStyle)\AutoSalon.Infrastructure\obj\Debug\net8.0\ref\AutoSalon.Infrastructure.dll
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.deps.json
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.runtimeconfig.json
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.dll
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.pdb
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Application.dll
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Domain.dll
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Application.pdb
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Domain.pdb
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.csproj.AssemblyReference.cache
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.AssemblyInfoInputs.cache
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.AssemblyInfo.cs
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.csproj.CopyComplete
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.dll
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\obj\Debug\net8.0\refint\AutoSalon.Infrastructure.dll
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.pdb
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.genruntimeconfig.cache
+D:\Evacuation\ILoggerExample\AutoSalon.Infrastructure\obj\Debug\net8.0\ref\AutoSalon.Infrastructure.dll
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.deps.json
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.runtimeconfig.json
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.dll
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Infrastructure.pdb
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Application.dll
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Domain.dll
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Application.pdb
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\bin\Debug\net8.0\AutoSalon.Domain.pdb
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.csproj.AssemblyReference.cache
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.AssemblyInfoInputs.cache
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.AssemblyInfo.cs
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.csproj.CopyComplete
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.dll
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\obj\Debug\net8.0\refint\AutoSalon.Infrastructure.dll
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.pdb
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\obj\Debug\net8.0\AutoSalon.Infrastructure.genruntimeconfig.cache
+D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\obj\Debug\net8.0\ref\AutoSalon.Infrastructure.dll

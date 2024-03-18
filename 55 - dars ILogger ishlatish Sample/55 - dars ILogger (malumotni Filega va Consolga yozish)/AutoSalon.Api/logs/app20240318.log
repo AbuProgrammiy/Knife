@@ -1,0 +1,101 @@
+2024-03-18 07:52:35.633 +05:00 [INF] Now listening on: https://localhost:7016
+2024-03-18 07:52:35.654 +05:00 [INF] Now listening on: http://localhost:5164
+2024-03-18 07:52:35.657 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-18 07:52:35.657 +05:00 [INF] Hosting environment: Development
+2024-03-18 07:52:35.657 +05:00 [INF] Content root path: D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Api
+2024-03-18 07:52:35.979 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/swagger/index.html - null null
+2024-03-18 07:52:36.090 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/swagger/index.html - 200 null text/html;charset=utf-8 112.1355ms
+2024-03-18 07:52:36.098 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-18 07:52:36.098 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/_vs/browserLink - null null
+2024-03-18 07:52:36.117 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/_framework/aspnetcore-browser-refresh.js - 200 13761 application/javascript; charset=utf-8 18.257ms
+2024-03-18 07:52:36.133 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.7336ms
+2024-03-18 07:52:36.170 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/swagger/v1/swagger.json - null null
+2024-03-18 07:52:36.226 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 55.9881ms
+2024-03-18 08:06:35.196 +05:00 [INF] Now listening on: https://localhost:7016
+2024-03-18 08:06:35.221 +05:00 [INF] Now listening on: http://localhost:5164
+2024-03-18 08:06:35.223 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-18 08:06:35.223 +05:00 [INF] Hosting environment: Development
+2024-03-18 08:06:35.224 +05:00 [INF] Content root path: D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Api
+2024-03-18 08:06:35.492 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/swagger/index.html - null null
+2024-03-18 08:06:35.630 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/swagger/index.html - 200 null text/html;charset=utf-8 138.9495ms
+2024-03-18 08:06:35.636 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-18 08:06:35.642 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/_vs/browserLink - null null
+2024-03-18 08:06:35.643 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/_framework/aspnetcore-browser-refresh.js - 200 13761 application/javascript; charset=utf-8 6.5824ms
+2024-03-18 08:06:35.666 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/_vs/browserLink - 200 null text/javascript; charset=UTF-8 24.734ms
+2024-03-18 08:06:35.744 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/swagger/v1/swagger.json - null null
+2024-03-18 08:06:35.814 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 70.4981ms
+2024-03-18 08:07:05.805 +05:00 [INF] Request starting HTTP/2 PATCH https://localhost:7016/api/Car/RateCar?carName=Ferarri&rating=5 - null null
+2024-03-18 08:07:05.829 +05:00 [INF] Executing endpoint 'AutoSalon.Api.Controllers.CarController.RateCar (AutoSalon.Api)'
+2024-03-18 08:07:05.865 +05:00 [INF] Route matched with {action = "RateCar", controller = "Car"}. Executing controller action with signature System.String RateCar(System.String, Double) on controller AutoSalon.Api.Controllers.CarController (AutoSalon.Api).
+2024-03-18 08:07:07.168 +05:00 [INF] Executed DbCommand (48ms) [Parameters=[@__carName_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT c."Id", c."BrandName", c."CarName", c."Price", c."Rating"
+FROM "Cars" AS c
+WHERE c."CarName" = @__carName_0
+LIMIT 1
+2024-03-18 08:07:07.189 +05:00 [ERR] RateCarda xatolik uz berdi!
+2024-03-18 08:07:07.195 +05:00 [INF] Executed action AutoSalon.Api.Controllers.CarController.RateCar (AutoSalon.Api) in 1326.2972ms
+2024-03-18 08:07:07.197 +05:00 [INF] Executed endpoint 'AutoSalon.Api.Controllers.CarController.RateCar (AutoSalon.Api)'
+2024-03-18 08:07:07.250 +05:00 [ERR] An unhandled exception has occurred while executing the request.
+System.Exception: Ma'lumot topilmadi!
+   at AutoSalon.Infrastructure.BaseRepositories.BaseRepository`1.GetByAny(Expression`1 expression) in D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Infrastructure\BaseRepositories\BaseRepository.cs:line 45
+   at AutoSalon.Application.Services.CarService.RateCar(String carName, Double rating) in D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Application\Services\CarService.cs:line 117
+   at AutoSalon.Api.Controllers.CarController.RateCar(String carName, Double rating) in D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Api\Controllers\CarController.cs:line 46
+   at lambda_method2(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-03-18 08:07:07.266 +05:00 [INF] Request finished HTTP/2 PATCH https://localhost:7016/api/Car/RateCar?carName=Ferarri&rating=5 - 500 null text/plain; charset=utf-8 1461.2884ms
+2024-03-18 08:09:14.192 +05:00 [INF] Now listening on: https://localhost:7016
+2024-03-18 08:09:14.215 +05:00 [INF] Now listening on: http://localhost:5164
+2024-03-18 08:09:14.217 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-18 08:09:14.218 +05:00 [INF] Hosting environment: Development
+2024-03-18 08:09:14.219 +05:00 [INF] Content root path: D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Api
+2024-03-18 08:09:14.437 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/swagger/index.html - null null
+2024-03-18 08:09:14.564 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/swagger/index.html - 200 null text/html;charset=utf-8 128.0683ms
+2024-03-18 08:09:14.570 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/_vs/browserLink - null null
+2024-03-18 08:09:14.570 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-18 08:09:14.580 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/_framework/aspnetcore-browser-refresh.js - 200 13761 application/javascript; charset=utf-8 10.0608ms
+2024-03-18 08:09:14.599 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/_vs/browserLink - 200 null text/javascript; charset=UTF-8 28.4543ms
+2024-03-18 08:09:14.654 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/swagger/v1/swagger.json - null null
+2024-03-18 08:09:14.724 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 70.6524ms
+2024-03-18 08:09:31.079 +05:00 [INF] Now listening on: https://localhost:7016
+2024-03-18 08:09:31.104 +05:00 [INF] Now listening on: http://localhost:5164
+2024-03-18 08:09:31.108 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-18 08:09:31.109 +05:00 [INF] Hosting environment: Development
+2024-03-18 08:09:31.111 +05:00 [INF] Content root path: D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Api
+2024-03-18 08:09:31.546 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/swagger/index.html - null null
+2024-03-18 08:09:31.662 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/swagger/index.html - 200 null text/html;charset=utf-8 115.6582ms
+2024-03-18 08:09:31.663 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/_vs/browserLink - null null
+2024-03-18 08:09:31.663 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-18 08:09:31.673 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/_framework/aspnetcore-browser-refresh.js - 200 13761 application/javascript; charset=utf-8 9.9964ms
+2024-03-18 08:09:31.686 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/_vs/browserLink - 200 null text/javascript; charset=UTF-8 22.9527ms
+2024-03-18 08:09:31.751 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/swagger/v1/swagger.json - null null
+2024-03-18 08:09:31.800 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 49.8162ms
+2024-03-18 08:10:40.375 +05:00 [INF] Now listening on: https://localhost:7016
+2024-03-18 08:10:40.397 +05:00 [INF] Now listening on: http://localhost:5164
+2024-03-18 08:10:40.399 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-18 08:10:40.399 +05:00 [INF] Hosting environment: Development
+2024-03-18 08:10:40.400 +05:00 [INF] Content root path: D:\Evacuation\55 - dars ILoggerExample (malumotni Consolga chiqarish)\AutoSalon.Api
+2024-03-18 08:10:40.666 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/swagger/index.html - null null
+2024-03-18 08:10:40.771 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/swagger/index.html - 200 null text/html;charset=utf-8 104.9695ms
+2024-03-18 08:10:40.781 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/_vs/browserLink - null null
+2024-03-18 08:10:40.781 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/_framework/aspnetcore-browser-refresh.js - null null
+2024-03-18 08:10:40.784 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/_framework/aspnetcore-browser-refresh.js - 200 13761 application/javascript; charset=utf-8 3.8028ms
+2024-03-18 08:10:40.800 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.7779ms
+2024-03-18 08:10:40.891 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7016/swagger/v1/swagger.json - null null
+2024-03-18 08:10:40.941 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7016/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 49.8526ms
