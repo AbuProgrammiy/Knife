@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\HandMadeMapper\HandMadeMapper\bin\Debug\net8.0\HandMadeMapper.exe
+C:\Users\Hp\source\repos\HandMadeMapper\HandMadeMapper\bin\Debug\net8.0\HandMadeMapper.deps.json
+C:\Users\Hp\source\repos\HandMadeMapper\HandMadeMapper\bin\Debug\net8.0\HandMadeMapper.runtimeconfig.json
+C:\Users\Hp\source\repos\HandMadeMapper\HandMadeMapper\bin\Debug\net8.0\HandMadeMapper.dll
+C:\Users\Hp\source\repos\HandMadeMapper\HandMadeMapper\bin\Debug\net8.0\HandMadeMapper.pdb
+C:\Users\Hp\source\repos\HandMadeMapper\HandMadeMapper\obj\Debug\net8.0\HandMadeMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\HandMadeMapper\HandMadeMapper\obj\Debug\net8.0\HandMadeMapper.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\HandMadeMapper\HandMadeMapper\obj\Debug\net8.0\HandMadeMapper.AssemblyInfo.cs
+C:\Users\Hp\source\repos\HandMadeMapper\HandMadeMapper\obj\Debug\net8.0\HandMadeMapper.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HandMadeMapper\HandMadeMapper\obj\Debug\net8.0\HandMadeMapper.dll
+C:\Users\Hp\source\repos\HandMadeMapper\HandMadeMapper\obj\Debug\net8.0\refint\HandMadeMapper.dll
+C:\Users\Hp\source\repos\HandMadeMapper\HandMadeMapper\obj\Debug\net8.0\HandMadeMapper.pdb
+C:\Users\Hp\source\repos\HandMadeMapper\HandMadeMapper\obj\Debug\net8.0\HandMadeMapper.genruntimeconfig.cache
+C:\Users\Hp\source\repos\HandMadeMapper\HandMadeMapper\obj\Debug\net8.0\ref\HandMadeMapper.dll
