@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gC38e0DIATFzlAMerU4bHwRbcpysU3swRURapEuKmDW89UIqmc7qT+rxYd9yEC3hJSeiuha7NAm5Q/DdO/o/ww==",
+  "dgSpecHash": "Hd1ZDYi8krKJ+m/2u0DOf+fWjzZJNo+NbWJInE40V2HgBx9u1wQ6gP5VpGWpACcrMjUKTD8pTbeRe0tsl8+9Vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\EFCoreSampleApi\\EFCoreSampleApi\\EFCoreSampleApi.csproj",
+  "projectFilePath": "D:\\GitHome\\qiriqtoqqiz\\Knife\\EFCoreSampleApi\\EFCoreSampleApi\\EFCoreSampleApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hp\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

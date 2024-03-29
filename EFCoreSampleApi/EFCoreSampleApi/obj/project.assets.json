@@ -2717,11 +2717,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\EFCoreSampleApi\\EFCoreSampleApi\\EFCoreSampleApi.csproj",
+      "projectUniqueName": "D:\\GitHome\\qiriqtoqqiz\\Knife\\EFCoreSampleApi\\EFCoreSampleApi\\EFCoreSampleApi.csproj",
       "projectName": "EFCoreSampleApi",
-      "projectPath": "C:\\Users\\Hp\\source\\repos\\EFCoreSampleApi\\EFCoreSampleApi\\EFCoreSampleApi.csproj",
+      "projectPath": "D:\\GitHome\\qiriqtoqqiz\\Knife\\EFCoreSampleApi\\EFCoreSampleApi\\EFCoreSampleApi.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\source\\repos\\EFCoreSampleApi\\EFCoreSampleApi\\obj\\",
+      "outputPath": "D:\\GitHome\\qiriqtoqqiz\\Knife\\EFCoreSampleApi\\EFCoreSampleApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

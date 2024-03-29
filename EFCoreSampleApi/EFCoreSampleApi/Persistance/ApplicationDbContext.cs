@@ -1,5 +1,5 @@
 ﻿using EFCoreSampleApi.Entities.Models;           // Persons |ishlashi uchun
-using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;             // DbContext |ishlashi uchun 
 
 namespace EFCoreSampleApi.Persistance
 {
@@ -9,7 +9,6 @@ namespace EFCoreSampleApi.Persistance
             : base(context)
         {
         }
-
         public DbSet<Person> Persons { get; set; }
     }
 }
