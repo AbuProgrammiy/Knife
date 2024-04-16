@@ -1,0 +1,26 @@
+<a routerLink="" type="button" class="btn-close" aria-label="Close"></a>
+
+
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Brand Name</th>
+        <th scope="col">Car Name</th>
+        <th scope="col">Price</th>
+        <th scope="col">Rating</th>
+      </tr>
+    </thead>
+    <tbody>
+        @for (car of cars; track car.id) {
+            <!--     ^^^^ -> getall.component.ts ni ichida declare qilingan-->
+            <tr>
+              <th>{{car.id}}</th>
+              <td>{{car.brandName}}</td>
+              <td>{{car.carName}}</td>
+              <td>{{car.price}}</td>
+              <td>{{car.rating}}</td>
+            </tr>
+        }
+    </tbody>
+  </table>
