@@ -1,6 +1,6 @@
 # Microsoft.Identity usage sample
 #
-## Mavzular
+## Mavzular:
 ### UserManager----\
 ### RoleManager-----| -- Classlarini ishlatib ko'rish
 ### SignInManager--/
