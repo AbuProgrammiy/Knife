@@ -1,0 +1,21 @@
+<a routerLink="" type="button" class="btn-close" aria-label="Close"></a>
+
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Name</th>
+        <th scope="col">Age</th>
+      </tr>
+    </thead>
+    <tbody>
+        @for (person of persons; track person.id) {
+            <!--     ^^^^ -> getall.component.ts ni ichida declare qilingan-->
+            <tr>
+              <th>{{person.id}}</th>
+              <td>{{person.name}}</td>
+              <td>{{person.age}}</td>
+            </tr>
+        }
+    </tbody>
+  </table>

@@ -1,0 +1,24 @@
+.CRUD{
+    width: 100%;
+    height: 640px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    margin-left: 20px;
+}
+
+.boot{
+    color: blue;
+    font-weight: 700;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    position: relative;
+    top: 170px;
+}

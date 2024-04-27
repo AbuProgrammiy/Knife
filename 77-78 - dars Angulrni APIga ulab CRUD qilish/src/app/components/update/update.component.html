@@ -1,0 +1,45 @@
+<button routerLink="" type="button" class="btc btn-close" aria-label="Close"></button>
+
+
+<div class="inputs">
+  <div class="input-group flex-nowrap">
+    <span class="input-group-text" id="addon-wrapping">Id</span>
+    <input [(ngModel)]="id" type="text" class="form-control id" placeholder="Id" aria-label="Username"
+      aria-describedby="addon-wrapping">
+  </div>
+
+
+  <div class="input-group flex-nowrap">
+    <span class="input-group-text" id="addon-wrapping">Name</span>
+    <input [(ngModel)]="personDTO.Name" type="text" class="form-control" placeholder="Name" 
+      aria-describedby="addon-wrapping">
+  </div>
+  <div class="input-group flex-nowrap">
+    <span class="input-group-text" id="addon-wrapping">Age</span>
+    <input [(ngModel)]="personDTO.Age" type="text" class="form-control" placeholder="Age"
+      aria-describedby="addon-wrapping">
+  <!-- Button trigger modal -->
+  <button (click)="update()" type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Update
+  </button>
+
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="exampleModalLabel">Update</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div id="updatestatus" class="modal-body">
+          Update bo'ldi
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Ok</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
