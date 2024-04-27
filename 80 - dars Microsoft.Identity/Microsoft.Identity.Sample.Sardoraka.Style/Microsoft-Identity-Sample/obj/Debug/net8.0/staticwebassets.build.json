@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "YbG46Tm+mFKvZoxR0ucYr+jRukQ7wFMCNA2d17lTKdU=",
-  "Source": "Microsoft-Identity-Sample",
-  "BasePath": "_content/Microsoft-Identity-Sample",
+  "Hash": "TUlKXCYbIBgDw4+AU/lRU1suPFXjTWnU3z6vfJ/75zM=",
+  "Source": "Microsoft.Identity.Sample.Sardoraka.Style",
+  "BasePath": "_content/Microsoft.Identity.Sample.Sardoraka.Style",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

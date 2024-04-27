@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Microsoft.Identity.Sample.Sardoraka.Style.props" />
+</Project>

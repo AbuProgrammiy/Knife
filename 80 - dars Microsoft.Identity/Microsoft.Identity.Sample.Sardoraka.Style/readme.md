@@ -1,5 +1,6 @@
 # Microsoft.Identity usage sample
 #
+### Maqsad: `Microsoft.Identity orqali Swaggerga quluf iconini chiqarmasdan va uyerga tokenni tashlamasdan Controllerlar methodlarini User Rolesiga qarab boshqarish imkoniyatini beradi` 
 ## Mavzular:
 ### UserManager----\
 ### RoleManager-----| -- Classlarini ishlatib ko'rish
@@ -17,3 +18,4 @@
 ### 5: Programm.cs->Nastroyka
 ### 6: Controller-> UserController
 ### ----------------CookieController
+### 7: Controller-> Authorizelarni joylashtirish

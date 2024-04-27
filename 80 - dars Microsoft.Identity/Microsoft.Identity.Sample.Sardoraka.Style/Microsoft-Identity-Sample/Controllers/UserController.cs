@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;                                        // UserManager |ishlashi uchun
+﻿using Microsoft.AspNetCore.Authorization;                                   // Authorize |ishlashi uchun
+using Microsoft.AspNetCore.Identity;                                        // UserManager |ishlashi uchun
 using Microsoft.AspNetCore.Mvc;                                             // ApiController, ControllerBase |ishlashi uchun
 using Microsoft_Identity_Sample.Models;                                     // AppUser |ishlashi uchun
 
@@ -6,6 +7,7 @@ namespace Microsoft_Identity_Sample.Controllers
 {
     [Route("api/[controller]/[action]")]
     [ApiController]
+    [Authorize]
     public class UserController : ControllerBase
     {
         private readonly UserManager<AppUser> _userManager;
@@ -21,7 +23,8 @@ namespace Microsoft_Identity_Sample.Controllers
         }
 
         [HttpPost]
-        public IdentityResult RegisterDTO(RegisterDTO registerDTO)
+        [AllowAnonymous]// Rolidan qatiy nazar barcha foydalanishiga ruxsat berish
+        public IdentityResult Register(RegisterDTO registerDTO)
         {
             AppUser appUser = new AppUser
             {
@@ -43,6 +46,7 @@ namespace Microsoft_Identity_Sample.Controllers
         }
 
         [HttpPost]
+        [AllowAnonymous]
         public Microsoft.AspNetCore.Identity.SignInResult LogIn(LoginDTO loginDTO)
         {
             AppUser appUser;
@@ -72,6 +76,7 @@ namespace Microsoft_Identity_Sample.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles ="Admin")]// Faqatgina Roli Admin bolgan user ishlata olishi uchun
         public IdentityResult WriteTokenToDatabase(string email,string tokenName,string tokenValue)
         {
             AppUser user= _userManager.FindByEmailAsync(email).Result;
@@ -81,12 +86,14 @@ namespace Microsoft_Identity_Sample.Controllers
         }
 
         [HttpGet]
+        [Authorize(Roles ="Admin")]
         public IEnumerable<AppUser> GetAllUsers()
         {
             return _userManager.Users.ToList();
         }
 
         [HttpPost]
+        [Authorize(Roles ="Admin")]
         public IdentityResult CreateRole(IdentityRole identityRole)
         {
             return _roleManager.CreateAsync(identityRole).Result;

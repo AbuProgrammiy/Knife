@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHome\\immidiate\\Knife\\80 - dars Microsoft.Identity\\Microsoft.Identity.Sample.Sardoraka.Style\\Microsoft-Identity-Sample\\Microsoft-Identity-Sample.csproj": {}
+    "D:\\GitHome\\immidiate\\Knife\\80 - dars Microsoft.Identity\\Microsoft.Identity.Sample.Sardoraka.Style\\Microsoft-Identity-Sample\\Microsoft.Identity.Sample.Sardoraka.Style.csproj": {}
   },
   "projects": {
-    "D:\\GitHome\\immidiate\\Knife\\80 - dars Microsoft.Identity\\Microsoft.Identity.Sample.Sardoraka.Style\\Microsoft-Identity-Sample\\Microsoft-Identity-Sample.csproj": {
+    "D:\\GitHome\\immidiate\\Knife\\80 - dars Microsoft.Identity\\Microsoft.Identity.Sample.Sardoraka.Style\\Microsoft-Identity-Sample\\Microsoft.Identity.Sample.Sardoraka.Style.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHome\\immidiate\\Knife\\80 - dars Microsoft.Identity\\Microsoft.Identity.Sample.Sardoraka.Style\\Microsoft-Identity-Sample\\Microsoft-Identity-Sample.csproj",
-        "projectName": "Microsoft-Identity-Sample",
-        "projectPath": "D:\\GitHome\\immidiate\\Knife\\80 - dars Microsoft.Identity\\Microsoft.Identity.Sample.Sardoraka.Style\\Microsoft-Identity-Sample\\Microsoft-Identity-Sample.csproj",
+        "projectUniqueName": "D:\\GitHome\\immidiate\\Knife\\80 - dars Microsoft.Identity\\Microsoft.Identity.Sample.Sardoraka.Style\\Microsoft-Identity-Sample\\Microsoft.Identity.Sample.Sardoraka.Style.csproj",
+        "projectName": "Microsoft.Identity.Sample.Sardoraka.Style",
+        "projectPath": "D:\\GitHome\\immidiate\\Knife\\80 - dars Microsoft.Identity\\Microsoft.Identity.Sample.Sardoraka.Style\\Microsoft-Identity-Sample\\Microsoft.Identity.Sample.Sardoraka.Style.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
         "outputPath": "D:\\GitHome\\immidiate\\Knife\\80 - dars Microsoft.Identity\\Microsoft.Identity.Sample.Sardoraka.Style\\Microsoft-Identity-Sample\\obj\\",
         "projectStyle": "PackageReference",

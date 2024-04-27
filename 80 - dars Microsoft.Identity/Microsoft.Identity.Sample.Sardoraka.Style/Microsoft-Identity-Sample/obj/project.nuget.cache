@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9y5CoJD09hdB3MEB0sAJVVvV3w3paJs+jveuT7wCGnxw0k7wSSJWvmbKP1B8ALtp7riuGlAzjacJveGCDaxy3w==",
+  "dgSpecHash": "lEvBdQ2vhsf8KPKRw6byvtxomgKPZ9vq10YoMdmBK2Zq/qtB3nyHTwECjyv2NihraYgf3gQ980iL7alqiRUFSg==",
   "success": true,
-  "projectFilePath": "D:\\GitHome\\knife-export\\Knife\\80 - dars Microsoft.Identity\\Microsoft.Identity.Sample.Sardoraka.Style\\Microsoft-Identity-Sample\\Microsoft-Identity-Sample.csproj",
+  "projectFilePath": "D:\\GitHome\\immidiate\\Knife\\80 - dars Microsoft.Identity\\Microsoft.Identity.Sample.Sardoraka.Style\\Microsoft-Identity-Sample\\Microsoft.Identity.Sample.Sardoraka.Style.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hp\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.4\\microsoft.aspnetcore.cryptography.internal.8.0.4.nupkg.sha512",
