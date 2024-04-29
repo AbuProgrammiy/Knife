@@ -1,12 +1,12 @@
 ﻿using Instagram.Application.Abstractions;           // IApplicationDbContext |ishlashi uchun
 using Instagram.Domain.Entities;                    // User |ishlashi uchun
-using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;                // DbContext, DbContextOptions, DbSet |ishlashi uchun
 
 namespace Instagram.Infrastructure.Persistance
 {
     public class ApplicationDbContext : DbContext, IApplicationDbContext
     {
-        public ApplicationDbContext(DbContextOptions options) : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
         }
 
